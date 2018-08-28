@@ -4,7 +4,7 @@ import org.javacord.api.*;
 
 public class Main{
     public static void main(String[] args) {
-        String token = "NDgwNDcyMTM1MjA3MjIzMzA5.DloTJQ.JnueS34xWotnqdDNVWuP88V0350";
+        String token = "nOnE oF yOuR bEesWAx";
 
         DiscordApi api = new DiscordApiBuilder().setToken(token).login().join();
 
